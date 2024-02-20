@@ -1,0 +1,1 @@
+# pstark-airdrop-query-server
